@@ -8,6 +8,9 @@ module.exports = {
         secondary: {
           100: "#E2E2D5"
         }
+      },
+      fontFamily: {
+        body: ['Raleway']
       }
     },
   },
